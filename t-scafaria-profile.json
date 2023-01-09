@@ -1,0 +1,30 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-01-09T12:46:14Z",
+  "IdClaims": [
+    {
+      "Claim": "t:scafaria"
+    },
+    {
+      "Claim": "gh:scafaria"
+    },
+    {
+      "Claim": "mdon:@scafaria@toad.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "pat:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "01606068934c9d7de4220b0b",
+    "Timestamp": "2023-01-09T12:47:22Z",
+    "Signature": "78c70419d5d1de66c3b329b990f78478984222268c5ac57eca76f6ea419209c647d4341f49f18fc685c2b8a0538baf5edfbad35989fc25cdf7fcc99b112070c0c34e33429590ac536dd139a57152f805046abe6b3c44e00c1520ad77ff942e0cdccc621aa1e6d54a88c5dc05131b1282c061ab27aa951a85d586645d3ec4932dd311ef57934c2f0aa192bbf3083b677f8653802469ad80902cf4b600ee306b2a172f555aba9e33901edea409b1078eda1783c79ce98395e3f0d8c53d4bf5281da153e9d695c6e914629c397b10c8f141c1cdeb3d9a0e38514ea22198a6a864dc6e2c7340856a2a4252b5dfd1fb441442561afb4a48746bfcbc3396bafb1eb430"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "6baa98fa48ed15f1f84fac8c6cc689da83d46cd542bb2722b2a4e4ae9341d0b9",
+  "ContentToHash": "v1|gh:scafaria,mdon:@scafaria@toad.social,pat:no-account,t:scafaria|2023-01-09T12:46:14Z"
+}
