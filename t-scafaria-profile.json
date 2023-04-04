@@ -16,6 +16,15 @@
     },
     {
       "Claim": "med:scafaria"
+    },
+    {
+      "Claim": "ss:scafaria"
+    },
+    {
+      "Claim": "post:scafaria"
+    },
+    {
+      "Claim": "spout:scafaria"
     }
   ],
   "IdDisclaims": [
@@ -26,11 +35,11 @@
   "Signature": {
     "Authority": "https://whosum.com",
     "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
-    "Nonce": "9f0db317fbf5aa5e111ed049",
-    "Timestamp": "2023-01-09T14:22:19Z",
-    "Signature": "82effbb3180d38fb0ca13564d3fa5ca1c45f260da75cb693152b6f55a3e0de1831a3a8bf4acee04064369ba6cf71fa212949efb7ffb73988c721ace10ff0af8ea38a9464d80c88ff027179983f13a6bcd3a9f29ce361cee76b739d09495f469db195bdd88de06054a17968bbdf207b166718c211f318ccb5d9dffbb6e780a21c0f66871019a64a872ec4e4c85c03b673a3ce69b23b7e46416bf10d735dab9e73e8ede484bc3f3a972fa3bb7fb89a1fd4a02c433f8eed09204a2add2ea5d0cd2fc85694ec4032db925ababac1658b22ea1e534fa4fa5df0e286917f96a0eaa006023e93d3af2c192792df4a311efab364815b55bc83f9ff2707e771336c591f8c"
+    "Nonce": "fc066f038727e8523a4025fb",
+    "Timestamp": "2023-04-04T16:31:26Z",
+    "Signature": "34ddbba128e4bc39128eb1159821324652334b6a59e405464ed8a73df5aa0bb6f7f526303a97e8f814130984e293c8e2bd1b99f39ed8a089bb201a1647108b9a5e132f77578adb17fe6a239c0be7df339e7cf480890e61fd6c4c4fd12679992e7ff6a0bb96abcc7f31cf4a96e33ed1d6efe4a667408543ce554225dc7a9f5659e15ec4f986f11c35326916abebeef48115eaf33895d403cd6788f4d54ef55a4c19483af07a58e2ecc42ffed095b3e1ac566ed0aec71c195c12b056a241fca61b5d73c7829ccfd0c8f6f1ed198d7d170882ccf6108e4857a7be457791feffcaecbe30ccf91d8c6af243b5124f546d726990450a985e6e0fae1c85c44aeb22b1c5"
   },
   "AgreedToTerms": true,
-  "ContentSha256": "38a6c24eef2170ee9e513395d71a8f357fcdb29bb225a06f4226ae9fc4fe1447",
-  "ContentToHash": "v1|gh:scafaria,mdon:@scafaria@toad.social,med:scafaria,pat:no-account,t:scafaria,yt:@scafariav|2023-01-09T14:15:20Z"
+  "ContentSha256": "fac6aa391e47d54e6e1a0145b077b75f65c0f01eaa7667e89ed8021e7e1ffed0",
+  "ContentToHash": "v1|gh:scafaria,mdon:@scafaria@toad.social,med:scafaria,pat:no-account,post:scafaria,spout:scafaria,ss:scafaria,t:scafaria,yt:@scafariav|2023-01-09T14:15:20Z"
 }
