@@ -12,9 +12,6 @@
       "Claim": "yt:@scafariav"
     },
     {
-      "Claim": "mdon:@scafaria@toad.social"
-    },
-    {
       "Claim": "med:scafaria"
     },
     {
@@ -33,16 +30,19 @@
   "IdDisclaims": [
     {
       "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "mdon:no-account"
     }
   ],
   "Signature": {
     "Authority": "https://whosum.com",
     "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
-    "Nonce": "2679b16a569063869cff72f0",
-    "Timestamp": "2023-09-23T16:23:22Z",
-    "Signature": "31030ca6d8e46aac94d45c5ea9baa1f05b34df39454c197a374541a3c5f0c63b2a2d6aee980ff1c16c7853b2ce16e479dcab18af033c696ab29cd7ae08f4f3e741ccb61c6016a8ea6148cef87dde035bad1642e2be59f2397bf385c87bb3e2b1cb28e749f35796fd578519829532416cadda87466725e9b2fa6f3f17d1a453cf9f67e5213f2ad5f682bef7f9d4b0fb50cb21ee4cdef55d431802f78129dd98c2ab46334e8d675185013f5d6a9ccf81078ea3c8ca9591334fb2141b758d5ccc3273a2fd2203a961ea111d84ad13dac70fc72ed94d20aeb1f490dd7e4431a9d0716ac0a87806d2c091c55ea8ec03ce54fd9941a9a0c04f74f01bec393a76e73796"
+    "Nonce": "4847e9c5c4edc7dd9b28bebe",
+    "Timestamp": "2023-12-26T15:21:37Z",
+    "Signature": "755bbf5c122cd9da9f4bdc38baf15bf3c45b6025880bd2af917965355c1a13eb0b94ae4cb10032f6cf230d4ef21763a16cf7713c3ac466efcdbf42345f99645d03cb410c5df9d157bcb72c7918a55565521e6ac66a77df267466a58cfbcefff34594b35deee7c40db5b96b2244674a7550ee9caf45f05f7dd7d0efb7da863c15dbcef1727db1ac218f32e7366909a4a3f86bf75398592a40509911d444fa99e6ac9ea081158821db649c4140f80121841d349eed74dff26dff23627d59c5d3537267f7e425eac4dfa3ab1874c5fb92c4fb4ad2a8c83c2034bd41b030e5ad4457893fea07289be42d82870fb41c119834f79ec71b1cca2b75ad2bae2321f5db1e"
   },
   "AgreedToTerms": true,
-  "ContentSha256": "67f8464fb1635f6b6f88990f1083b3de593995ab0e245140e73d1504e141cc39",
-  "ContentToHash": "v1|gh:scafaria,mdon:@scafaria@toad.social,med:scafaria,pat:no-account,post:scafaria,spout:scafaria,ss:scafaria,t:scafaria,x:scafaria,yt:@scafariav|2023-01-09T14:15:20Z"
+  "ContentSha256": "575c09b1d3100f3f3d3162cb1f0142b562849397221a830e1d8e4d56f103761b",
+  "ContentToHash": "v1|gh:scafaria,mdon:no-account,med:scafaria,pat:no-account,post:scafaria,spout:scafaria,ss:scafaria,t:scafaria,x:scafaria,yt:@scafariav|2023-01-09T14:15:20Z"
 }
